@@ -7,6 +7,7 @@ Idiomatic Ruby client for [Google Cloud Platform](https://cloud.google.com/) ser
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/bc3w4im2g4ad0rah?svg=true)](https://ci.appveyor.com/project/GoogleCloudPlatform/google-cloud-ruby)
 [![Coverage Status](https://img.shields.io/coveralls/GoogleCloudPlatform/google-cloud-ruby.svg)](https://coveralls.io/r/GoogleCloudPlatform/google-cloud-ruby?branch=master)
 [![Gem Version](https://badge.fury.io/rb/gcloud.svg)](http://badge.fury.io/rb/gcloud)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamsoir%2Fgoogle-cloud-ruby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamsoir%2Fgoogle-cloud-ruby?ref=badge_shield)
 
 * [Homepage](http://googlecloudplatform.github.io/google-cloud-ruby/)
 * [API documentation](http://googlecloudplatform.github.io/google-cloud-ruby/#/docs)
@@ -837,6 +838,9 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 This library is licensed under Apache 2.0. Full license text is
 available in [LICENSE](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamsoir%2Fgoogle-cloud-ruby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamsoir%2Fgoogle-cloud-ruby?ref=badge_large)
 
 ## Support
 
